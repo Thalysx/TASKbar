@@ -1,0 +1,12 @@
+analysis/
+artifacts/
+dist/
+release/
+*.user
+*.suo
+data/
+*.log
+startup-error.txt
+.vs/
+.env
+.env.*
